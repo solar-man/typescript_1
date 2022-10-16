@@ -1,0 +1,8 @@
+import { Book } from './book.js';
+export const books = [
+    new Book('Stalker', 'fantasy', 980),
+    new Book('1984', 'fantasy', 1001),
+    new Book('War and Peace', 'history', 500),
+    new Book('Idiot', 'fiction', 999)
+];
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYm9vay1jb2xsZWN0aW9uLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vc3JjL2Jvb2stY29sbGVjdGlvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLEVBQUUsSUFBSSxFQUFFLE1BQU0sV0FBVyxDQUFBO0FBRWhDLE1BQU0sQ0FBQyxNQUFNLEtBQUssR0FBRztJQUNqQixJQUFJLElBQUksQ0FBQyxTQUFTLEVBQUUsU0FBUyxFQUFFLEdBQUcsQ0FBQztJQUNuQyxJQUFJLElBQUksQ0FBQyxNQUFNLEVBQUUsU0FBUyxFQUFFLElBQUksQ0FBQztJQUNqQyxJQUFJLElBQUksQ0FBQyxlQUFlLEVBQUUsU0FBUyxFQUFFLEdBQUcsQ0FBQztJQUN6QyxJQUFJLElBQUksQ0FBQyxPQUFPLEVBQUUsU0FBUyxFQUFFLEdBQUcsQ0FBQztDQUNwQyxDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgQm9vayB9IGZyb20gJy4vYm9vay5qcydcclxuXHJcbmV4cG9ydCBjb25zdCBib29rcyA9IFtcclxuICAgIG5ldyBCb29rKCdTdGFsa2VyJywgJ2ZhbnRhc3knLCA5ODApLFxyXG4gICAgbmV3IEJvb2soJzE5ODQnLCAnZmFudGFzeScsIDEwMDEpLFxyXG4gICAgbmV3IEJvb2soJ1dhciBhbmQgUGVhY2UnLCAnaGlzdG9yeScsIDUwMCksXHJcbiAgICBuZXcgQm9vaygnSWRpb3QnLCAnZmljdGlvbicsIDk5OSlcclxuXSJdfQ==
